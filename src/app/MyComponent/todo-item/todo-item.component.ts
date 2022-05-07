@@ -16,7 +16,7 @@ export class TodoItemComponent implements OnInit {
   }
 
   onClick(){
-    console.log("Clicked");
+    console.log("Clicked delete event");
     
   }
 
